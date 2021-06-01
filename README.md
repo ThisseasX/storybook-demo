@@ -18,4 +18,4 @@ After making changes, you can publish the new Storybook on Chromatic by running:
 $ npm run chromatic
 ```
 
-You can see it live at [https://60b6b64fd763ec0039a9dcc6-smabmxiica.chromatic.com/](https://60b6b64fd763ec0039a9dcc6-smabmxiica.chromatic.com/).
+You can view it live at [https://60b6b64fd763ec0039a9dcc6-smabmxiica.chromatic.com/](https://60b6b64fd763ec0039a9dcc6-smabmxiica.chromatic.com/).
