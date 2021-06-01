@@ -5,16 +5,19 @@ const styles = {
     background: 'none',
     border: 'none',
     borderRadius: '6px',
+    padding: 0,
     cursor: 'pointer',
     transition: 'box-shadow 150ms, background-color 150ms',
   },
 
   size_small: {
-    padding: '4px',
+    width: '32px',
+    height: '32px',
   },
 
   size_large: {
-    padding: '12px',
+    width: '48px',
+    height: '48px',
   },
 
   color_primary: {
