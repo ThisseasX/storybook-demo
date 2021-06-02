@@ -6,7 +6,7 @@ export default {
   component: EditButton,
 };
 
-const Template = (args) => <EditButton {...args} />;
+const Template = args => <EditButton {...args} />;
 
 export const PrimarySmall = Template.bind({});
 PrimarySmall.args = {
