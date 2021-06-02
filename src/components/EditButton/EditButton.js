@@ -6,29 +6,12 @@ import useStyles from './style';
 const noop = () => {};
 
 type Props = {
-  /**
-   * The color of the button.
-   */
   color: 'primary' | 'secondary',
-  /**
-   * The size of the button.
-   */
   size: 'small' | 'large',
-  /**
-   * Whether the button should be disabled or not.
-   */
   disabled: boolean,
-  /**
-   * Handler for click events.
-   */
   onClick: () => void,
 };
 
-/**
- * Simple `EditButton` demo for **all** your needs.
- *
- * This button is used when you want to edit stuff.
- */
 const EditButton = ({
   color = 'primary',
   size = 'small',
