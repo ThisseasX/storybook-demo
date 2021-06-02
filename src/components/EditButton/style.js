@@ -2,7 +2,7 @@ import { makeStyles } from '@material-ui/styles';
 
 const styles = {
   button: {
-    background: 'none',
+    background: 'red',
     border: 'none',
     borderRadius: '6px',
     padding: 0,
