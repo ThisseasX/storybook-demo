@@ -2,7 +2,7 @@ import React from 'react';
 import EditButtonComponent from './EditButton';
 
 export default {
-  title: 'Demo/Edit Button',
+  title: 'Buttons/Edit Button',
   component: EditButtonComponent,
 };
 
